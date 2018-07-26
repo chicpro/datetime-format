@@ -14,7 +14,7 @@ The datetime is updated every second and does not need any Gnome date or time se
 To install the extension, run the build.js installation script with node:
 
 ```
-git clone https://github.com/Daniel-Khodabakhsh/datetime-format.git
+git clone git@github.com:chicpro/datetime-format.git
 cd datetime-format
 git checkout release
 node --use_strict build.js
